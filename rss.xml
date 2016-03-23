@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Authenticity and Faith]]></title>
         <description><![CDATA[Authenticity and Faith]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/authenticity-and-faith/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 21:16:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 21:50:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/authenticity-and-faith/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d4dc292-ffea-4dd5-9861-0681d353ae76.jpg">]]></description>
+            <link>https://thegrid.ai/authenticity-and-faith/6f9d69b1-3c10-4271-bdc9-a1da6e5ddfe6/index.html</link>
+            <guid isPermaLink="false">6f9d69b1-3c10-4271-bdc9-a1da6e5ddfe6</guid>
+            <pubDate>Wed, 23 Mar 2016 21:50:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac74a550-1baa-47bc-addd-6bff44c2748a.jpg">]]></description>
-            <link>undefinedi-am-constantly-on-a-journey-of-discovering-who-i-am-what-i/index.html</link>
+            <link>https://thegrid.ai/authenticity-and-faith/i-am-constantly-on-a-journey-of-discovering-who-i-am-what-i/index.html</link>
             <guid isPermaLink="false">a8d9bace-e31f-4cd8-85f6-3dab6e0f6113</guid>
             <pubDate>Wed, 23 Mar 2016 21:15:54 GMT</pubDate>
         </item>
