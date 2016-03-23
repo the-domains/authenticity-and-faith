@@ -1,0 +1,28 @@
+name: Authenticity and Faith
+favicon: null
+layout_spectrum: 0.42735356464982033
+typography_spectrum: 0.19150602002628148
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8229657341726124
+  lightness: 0.8821117556653917
+  saturation: 0.6804482233710587
+  rhythmicContrast: 0.48899716790765524
+purpose: []
